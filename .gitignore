@@ -1,0 +1,38 @@
+
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Editor files
+*.suo
+*.user
+*.sln
+*.tmp
+*.bak
+*.vbp
+*.VC*
+*.log
+
+# Local environment variables
+.env
+.env.*
+
+# Testing
+/coverage/
+/test/reports/
+
+# IDE specific files
+/.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+package-lock.json
+README.md
+.idx
+# Docker
+Dockerfile*
+docker-compose.*.yml
+
+# Editor specific files
+/.idea/
